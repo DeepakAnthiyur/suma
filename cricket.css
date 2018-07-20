@@ -1,0 +1,46 @@
+.inform{
+	text-transform:uppercase;
+	color:white;
+}
+.menu li{
+	display:inline;
+	
+	border:1px solid black;
+	background:yellow;
+}
+a{
+	padding:40px;
+	text-decoration:none;
+	font-size:12px;
+	color=blue;
+}
+li a:hover{
+	font-size:16px;
+	color:red;
+}
+body{
+	font-family:sans-serif;
+	width:1000px;
+	margin:auto;
+	background-size:1350px 850px;
+	background-repeat:no-repeat;
+	padding-top:40px;
+}
+img{
+	width:80px;
+	height:80px;
+	position:absolute;
+	top:525px;
+	left:1200px;
+}
+ul{
+	color:white;
+	list-style-type:none;
+}
+h3{
+	color:red;
+}
+p{
+	color:red;
+	font-size:20px;
+}
